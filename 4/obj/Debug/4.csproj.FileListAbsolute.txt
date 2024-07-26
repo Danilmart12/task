@@ -1,0 +1,11 @@
+C:\Users\upara\OneDrive\Рабочий стол\kol\4\obj\Debug\4.csproj.AssemblyReference.cache
+C:\Users\upara\OneDrive\Рабочий стол\kol\4\obj\Debug\4.csproj.SuggestedBindingRedirects.cache
+C:\Users\upara\OneDrive\Рабочий стол\kol\4\obj\Debug\_4.Properties.Resources.resources
+C:\Users\upara\OneDrive\Рабочий стол\kol\4\obj\Debug\4.csproj.GenerateResource.cache
+C:\Users\upara\OneDrive\Рабочий стол\kol\4\obj\Debug\4.csproj.CoreCompileInputs.cache
+C:\Users\upara\OneDrive\Рабочий стол\kol\4\bin\Debug\4.exe.config
+C:\Users\upara\OneDrive\Рабочий стол\kol\4\bin\Debug\4.exe
+C:\Users\upara\OneDrive\Рабочий стол\kol\4\bin\Debug\4.pdb
+C:\Users\upara\OneDrive\Рабочий стол\kol\4\obj\Debug\_4.Form1.resources
+C:\Users\upara\OneDrive\Рабочий стол\kol\4\obj\Debug\4.exe
+C:\Users\upara\OneDrive\Рабочий стол\kol\4\obj\Debug\4.pdb
